@@ -5,8 +5,8 @@ Ce projet est une API RESTful de base pour gérer les données d'un restaurant. 
 
 ## Configuration requise
 
-- 
-- 
+- Node.js
+- MySQL
 
 ## Installation
 
